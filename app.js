@@ -80,6 +80,55 @@ app.get('/', async (req, res) => {
             <a href="https://cloud.google.com/vertex-ai-search-and-conversation?hl=en" target="_blank"><span>À propos de Vertex AI || About Vertex AI</span></a>
             <span style="padding-left: 30px;"><a href="mailto:chris.melnick-macdonald@phac-aspc.gc.ca">Contactez-nous | Contact Us</a></span>
         </div>
+        <div class="info-text">
+        <small><i>Cette recherche Vertex AI utilise les sites suivants  | This Vertex AI Search uses the following sites: 
+        technologyreview.com/topic/biotechnology/*
+        *.mobihealthnews.com/*
+        cbc.ca/news/health*
+        *.healthitoutcomes.com/*
+        *.healthcaredive.com/*
+        *.mmm-online.com/*
+        *.modernhealthcare.com/*
+        *.pharmacytimes.com/*
+        time.com/section/health/*
+        *.beckershospitalreview.com/*
+        medpagetoday.com/latest*
+        *.medscape.com/*
+        newscientist.com/subject/health/*
+        nytimes.com/section/health*
+        knowablemagazine.org/content/health-disease*
+        livescience.com/health*
+        *.mdedge.com/*
+        *.medicaldaily.com/*
+        *.medicalnewstoday.com/*
+        *.medgadget.com/*
+        *.discovermagazine.com/*
+        forbes.com/healthcare/*
+        *.fiercehealthcare.com/*
+        health.harvard.edu/*
+        *.hcplive.com/*
+        *.healthleadersmedia.com/*
+        *.healthaffairs.org/*
+        *.kffhealthnews.org/*
+        practiceupdate.com/explore/*
+        npr.org/sections/health-shots*
+        abcnews.go.com/Health/*
+        *.the-hospitalist.org/*
+        quantamagazine.org/biology/*
+        theatlantic.com/health/*
+        *.pharmaceutical-journal.com/*
+        reuters.com/business/healthcare-pharmaceuticals/*
+        bbc.com/news/health*
+        *.fiercebiotech.com/*
+        scientificamerican.com/health/*
+        *.clinicaladvisor.com/*
+        *.healthcareitnews.com/*
+        *.statnews.com/*
+        edition.cnn.com/health*
+        *.imedicalapps.com/*
+        *.medicalxpress.com/*
+        who.int/news*
+        </i></small>
     </div>
 </body>
 </html>`;

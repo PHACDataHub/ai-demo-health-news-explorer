@@ -61,9 +61,12 @@ app.get('/', async (req, res) => {
 </head>
 <body>
     <div>
-        <h1>Référentiel d'informations sur l'équipe de surveillance | Surveillance Team Information Repository</h1>
+        <h1>Explorateur d'actualités sur la santé | Health News Explorer</h1>
         <script src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"></script>
-        <gen-search-widget configId="e9a146aa-2908-4896-a424-d21837c24d46" location="us" triggerId="searchWidgetTrigger"></gen-search-widget>
+        <gen-search-widget
+          configId="a0c6667a-bd31-407a-bdeb-4b661af1ad52"
+          triggerId="searchWidgetTrigger">
+        </gen-search-widget>
         <div class="info-text">
         <input placeholder="Poser une question | Ask a question" id="searchWidgetTrigger" />
         </div>
